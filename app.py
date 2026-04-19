@@ -1,2 +1,2 @@
-from my_app import *
-app.run(port=5000)
+from myapp import app as a
+app = a
